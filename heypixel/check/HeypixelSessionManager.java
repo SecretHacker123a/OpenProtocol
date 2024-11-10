@@ -577,7 +577,7 @@ public class HeypixelSessionManager {
             -1,
             uniqueClassNames.size(),
             uniqueClassNames,
-            13064 + RandomUtils.nextInt(-100, 200),
+            13064 + RandomUtils.nextInt(0, 200),
             loadClassCount,
             loadClassCount
         );
